@@ -1,0 +1,124 @@
+===========================
+Tentang Afy Wahyu Wibowo
+===========================
+
+Halo! Aku Afy, seorang Web Developer asal Semarang, Indonesia.  
+Aku punya pengalaman sebagai freelance software engineer, intern, dan entrepreneur.  
+Fokus utamaku adalah membangun solusi digital yang cepat, aman, dan berguna untuk bisnis nyata.
+
+🌐 Website: https://codefy.my.id  
+📱 WhatsApp: +6287733839260  
+📧 Email: afyww18@gmail.com  
+
+Gelar: S1 Teknik Informatika - Universitas Islam Sultan Agung (2020–2025)  
+Nilai tambah: Bisa coding, bisa jualan, bisa bikin tim kecil jalan!
+
+===========================
+Layanan yang Ditawarkan
+===========================
+
+★ Fullstack Web Development  
+★ CMS & POS Kustom
+★ Sistem Tiket, Booking, dan Internal (Surat, Absensi)
+★ Profil Perusahaan dan Landing Page
+★ Web App MVP untuk startup
+
+===========================
+Teknologi dan Tools
+===========================
+
+Frontend: React.js, Next.js, Tailwind CSS  
+Backend: Laravel Swoole, FastAPI, Node.js  
+Database: MySQL, PostgreSQL, Redis  
+Infra: VPS, Linux, Docker, Nginx, PM2  
+Dev Tool: Git, Postman, Trello, VS Code
+
+===========================
+Portofolio Unggulan
+===========================
+
+- Funnev – Sistem E-ticketing (Laravel + React)
+- Beil – Aplikasi POS (kasir & keuangan)
+- Rembug Jateng – Aspirasi Warga via Web
+- PT. Parcelin Creative – Profil & CMS
+- JavaIndoTrip – Pemesanan Wisata Online
+- Sistem Surat Kerja – Dinkes Kota Semarang
+
+===========================
+Sertifikasi & Pengakuan
+===========================
+
+✓ Junior Web Developer – BNSP (2024)  
+✓ InfoSec Intro – Cyber Academy (2023)  
+✓ Ethical Hacking – Udemy (2023)  
+✓ Online Shop Strategy – Skill Academy (2024)  
+✓ Internship Web Developer – Dinas Kesehatan
+
+===========================
+Pengalaman Kerja
+===========================
+
+💼 Freelance Software Engineer (2024–Sekarang)  
+– Fullstack development, client handling, project scoping & delivery.
+
+🏢 Dinas Kesehatan Semarang – Web Developer Intern  
+– Bantu buat sistem surat kerja, kolaborasi tim P2P, integrasi data.
+
+👟 Aplshoes – Pemilik Usaha Shoe Care  
+– Bangun bisnis, tangani customer service, marketing, dan operasional.
+
+☕ Flit Coffee – Barista  
+– Pelajari teknik espresso, latte art, dan customer engagement.
+
+===========================
+Cara Kerja & Pembayaran
+===========================
+
+1. Diskusi awal & skoping kebutuhan
+2. Estimasi waktu dan harga
+3. DP 30%, sisanya sesuai milestone
+4. Pengembangan, testing, revisi
+5. Launch & support opsional
+
+===========================
+Skill Tambahan
+===========================
+
+🧠 Hard Skill:
+- SEO
+- RAG / Chatbot
+- VPS & Server Setup
+- Project Management
+- Digital Business Planning
+
+💬 Soft Skill:
+- Leadership
+- Public Speaking
+- Customer Engagement
+- Client Management
+
+===========================
+FAQ (Pertanyaan Umum)
+===========================
+
+Q: Bisa request sistem sesuai kebutuhan?
+A: Bisa banget! Aku terbiasa bikin sistem custom sesuai alur bisnis klien.
+
+Q: Gimana cara mulai kerja bareng?
+A: Hubungi aku via WhatsApp / email, lalu kita jadwalkan diskusi awal.
+
+Q: Apa ada support setelah project selesai?
+A: Ya, bisa disesuaikan (bulanan, on-demand, dll).
+
+Q: Rata-rata waktu pengerjaan?
+A: Sekitar 2–4 minggu tergantung skop dan kompleksitas.
+
+Q: Apa bedanya kamu dengan freelancer lain?
+A: Aku nggak cuma bikin cepat, tapi juga pikirin skalabilitas, keamanan, dan user experience dari awal.
+
+===========================
+Penutup
+===========================
+
+Aku suka bikin hal yang berdampak.  
+Yuk ngobrol dan wujudkan ide kamu jadi produk nyata, satu commit demi commit.
